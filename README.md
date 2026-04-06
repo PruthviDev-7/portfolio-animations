@@ -4,8 +4,7 @@ A stunning gooey animation effect built with WebGL and GSAP. Perfect for creatin
 
 ## Preview
 
-![Gooey Animation Effect](<img width="960" height="600" alt="{69392736-8B64-4334-8BD5-383AE1B07DD7}" src="https://github.com/user-attachments/assets/3fce0447-7ceb-49d5-a93d-93fe1718e776" />
-)
+![Gooey Animation Effect]<img width="960" height="600" alt="{69392736-8B64-4334-8BD5-383AE1B07DD7}" src="https://github.com/user-attachments/assets/3fce0447-7ceb-49d5-a93d-93fe1718e776" />
 
 ## Features
 
