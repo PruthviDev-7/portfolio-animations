@@ -1,10 +1,10 @@
 ﻿# Portfolio Animations
-
+ 
 A stunning gooey animation effect built with WebGL and GSAP. Perfect for creating eye-catching portfolio landing pages.
 
 ## Preview
 
-![Gooey Animation Effect]<img width="960" height="600" alt="{69392736-8B64-4334-8BD5-383AE1B07DD7}" src="https://github.com/user-attachments/assets/3fce0447-7ceb-49d5-a93d-93fe1718e776" />
+https://github.com/user-attachments/assets/197fd3a5-ac20-4d62-9936-0f046d94631a
 
 ## Features
 
